@@ -1,1 +1,1 @@
-# Laba1
+# Laboratory work - Osnovi programuvannya ta algorytmi
